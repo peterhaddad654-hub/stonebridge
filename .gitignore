@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+.replit-artifact
+node_modules/.vite
+.vite
